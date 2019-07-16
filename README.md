@@ -1,0 +1,2 @@
+# Components
+Component base directory
